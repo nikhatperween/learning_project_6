@@ -1,0 +1,22 @@
+
+
+.clr_title:hover{
+color: rgb(100, 86, 4);
+}
+
+.card_style{
+    border-width: 1px;
+    border-radius: 7px;
+}
+.card_style:hover{
+border-width: 1px;
+border-color: rgb(70, 192, 70);
+}
+.card-img-overlay {
+    text-align: center;
+    margin-top: 100px;
+  }
+
+
+
+  
